@@ -1,3 +1,3 @@
 # TEST REPOSITORY
 
-- To test the giyhub desktop
+- To test the GitHub Desktop
